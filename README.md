@@ -1,4 +1,4 @@
-# Industrial-Level Todo Application
+# dot.net Full stack Todo Application
 
 A full-stack Todo application with advanced features including task scheduling, time tracking, and comprehensive CRUD operations. Built with modern technologies following industry best practices.
 
